@@ -130,7 +130,7 @@ $$
 $$
 
 $$
-\phi_2(x) = f(x_0) + \langle \nabla f(x_0), x + x_0 \rangle - \frac{L}{2} \|x-x_0\|^2.
+\phi_2(x) = f(x_0) + \langle \nabla f(x_0), x - x_0 \rangle - \frac{L}{2} \|x-x_0\|^2.
 $$
 
 Then 
